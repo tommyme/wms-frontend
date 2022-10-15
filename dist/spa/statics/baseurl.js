@@ -1,0 +1,1 @@
+const baseurl="https://wms-api.se.yoimiya.me/",wsurl="wss://wms-api.se.yoimiya.me/";window.g={BaseUrl:baseurl,WsUrl:wsurl};
