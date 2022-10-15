@@ -21,3 +21,8 @@ yarn run lint
 ```bash
 npx quasar build
 ```
+
+### 更改后端
+```shell
+vim dist/spa/statics/baseurl.js
+```
